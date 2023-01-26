@@ -1,5 +1,8 @@
 # Alien-Runner
 
+Link to play:
+https://liluo.io/instant-builds/d4806ad3-01fe-4e17-b5b0-9fa67e443089
+
 Dodge the oncoming aliens and collect coins!
 ---------------------------------------------------------------
 Controls:
